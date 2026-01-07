@@ -1,0 +1,4 @@
+User-agent: *
+
+Allow: /
+Sitemap: https://mcdoc.yunmengdu.cn/sitemap.xml
