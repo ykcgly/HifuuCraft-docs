@@ -7,7 +7,7 @@ export default defineComponent({
     setup() {
 
         const link = computed(() =>
-            "https://qm.qq.com/q/RHZqFoSmac"
+            "https://qm.qq.com/q/kukOXwfbvG"
         );
         const icon = computed(
             () =>
