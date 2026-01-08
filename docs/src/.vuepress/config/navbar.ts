@@ -11,11 +11,11 @@ export default navbar([
   //   icon: 'lightbulb',
   //   link: '/function/',
   // },
-  // {
-  //   text: 'FAQ',
-  //   icon: 'circle-question',
-  //   link: '/FAQ/',
-  // },
+  {
+    text: 'FAQ',
+    icon: 'circle-question',
+    link: '/FAQ/',
+  },
   // {
   //   text: '更新日志',
   //   icon: 'clock',
