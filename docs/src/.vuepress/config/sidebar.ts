@@ -7,11 +7,11 @@ export default sidebar({
       icon: 'signs-post',
       link: '/start/',
     },
-    // {
-    //   text: '指令',
-    //   icon: 'lightbulb',
-    //   link: '/function/',
-    // },
+     {
+       text: '指令',
+       icon: 'lightbulb',
+       link: '/function/',
+     },
     {
       text: 'FAQ',
       icon: 'circle-question',
