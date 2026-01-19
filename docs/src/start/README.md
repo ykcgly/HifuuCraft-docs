@@ -1,7 +1,9 @@
 ---
-next: /about/sponsor
+next: /start/help
 icon: signs-post
 ---
+
+<!-- markdownlint-disable MD033 -->
 
 # 开始
 
@@ -9,26 +11,26 @@ icon: signs-post
 
 云梦都是一个minecraft服务器，始于2017
 
-![主城](./ymd-main-city.webp )
+![主城图片](./image/ymd-main-city.webp )
 
 ## 玩法说明
 
 ### 目前拥有玩法
 
-* 彩蛋战争
-* 战桥
-* 起床战争
-* tntRUN
-* 密室傻手
-* 1.12.2老生存
-* 1.21.8空岛
+- 彩蛋战争
+- 战桥
+- 起床战争
+- tntRUN
+- 密室傻手
+- 1.12.2老生存
+- 1.21.8空岛
 
 ### 目前更新计划
 
-* 将空岛升级到1.21.11
-* 开设1.21.11生存
-* 开设小游戏(小游戏派对and僵尸末日)
-* 空岛附魔升级，增加200+全新附魔
+- 将空岛升级到1.21.11
+- 开设1.21.11生存
+- 开设小游戏(小游戏派对and僵尸末日)
+- 空岛附魔升级，增加200+全新附魔
 
 ::: info
 您可以直接使用原版客户端进入云梦都，不需要任何额外 mod
@@ -41,44 +43,46 @@ ___
 
 ### 1.12.2生存
 
-1.最早开设的一个玩法之一，**直到今年已经开设了8年**，拥有玩法插件**粘液科技**
+<sup>主条目：[1.12.2生存服](./surv_old)</sup>
 
-2.拥有大量老登遗迹，可以前来考古
+![1.12主城](./image/ymd-1.12-main-city.webp )
 
-![1.12主城](./ymd-1.12-main-city.webp )
-
-![Gensokyo小镇一角](./Gensokyo.webp )
-
-![赛博蚌埠一角](./bengbu.webp )
-
-![车站](./ymd-station.webp )
-
-![尖塔顶端](./tower.webp)
-
+- 最早开设的一个玩法之一，**直到今年已经开设了8年**，拥有玩法插件**粘液科技**
+- 拥有大量老登遗迹，可以前来考古
 
 ### 1.21.8空岛
 
- 1.与1.12生存相反，空岛更加偏向原版，在原版基础上使用插件增加了一些装饰品
+<sup>主条目：[1.21空岛服](./skyblock)</sup>
 
-![2026年跨年合照](./2026year.webp )
+![樱花小院](./image/cherry%20blossom%20house.webp)
 
-![樱花小院](./cherry%20blossom%20house.webp)
+- 与1.12生存相反，空岛更加偏向原版，在原版基础上使用插件增加了一些装饰品
 
-![Fortbri以及他的岛员的杰作](./huge_2026-01-17_11.20.53.webp)
+___
 
-![envnon和他的岛员的杰作](./huge_2026-01-17_11.27.51.webp)
+<div style="display:flex; gap:18px; justify-content:space-between; align-items:flex-start;">
+  <div style="flex: 1 1 320px; min-width: 220px;">
+    <p style="margin:2; font-size:20px;"><strong>更多方块</strong></p>
+    <p style="margin:6px 0 0 0;">拥有700+全新方块，每种都不重样<br>风格多种多样任你随心搭配<br>从庭院到神社，从人里到红魔馆<br>每一处都能布置出独特氛围</p>
+  </div>
 
-![@*无糖红茶* 的画作](./2026-01-17_11.32.36.webp)
+  <img src="./image/blocks-more-edit.jpg" style="width:65%; height:auto; display:block;" alt="方块预览">
+</div>
 
+___
 
-2.**拥有700+的全新方块，每种都不重样**
+___
 
-![](./blocks.webp)
-![](./blocks-more.webp)
+<div style="display:flex; gap:16px; justify-content:space-between; align-items:flex-start;">
+  <div style="flex: 1 1 320px;; min-width: 220px;">
+    <p style="margin:2; font-size:20px;"><strong>全新的附魔系统</strong></p>
+    <p style="margin:6px 0 0 0;">附魔台现在会给予更多更强力的附魔，让你的工具更加强大！</p>
+  </div>
 
-3.增加了新的附魔系统，让你的工具更加强大！
+  <img src="./image/enchantments.webp" style="width:68%; height:auto; display:block;" alt="附魔">
+</div>
 
-![](./enchantments.webp)
+___
 
 ## 完善文档
 
@@ -137,5 +141,5 @@ npm run docs:dev
 :::
 
 :::tip
-更多可见 [文档贡献指南](../about/contribute/docs.md)
+更多可见 [文档贡献指南](../about/contribute/zh_style.md)
 :::
