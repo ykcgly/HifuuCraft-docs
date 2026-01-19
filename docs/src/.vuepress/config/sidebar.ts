@@ -6,6 +6,9 @@ export default sidebar({
       text: '开始',
       icon: 'signs-post',
       link: '/start/',
+      children: [
+        '/start/help.md',
+      ]
     },
      {
        text: '指令',

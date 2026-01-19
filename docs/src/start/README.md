@@ -1,7 +1,9 @@
 ---
-next: /about/sponsor
+next: /start/help
 icon: signs-post
 ---
+
+<!-- markdownlint-disable MD033 -->
 
 # 开始
 
@@ -63,12 +65,12 @@ ___
 
 2.**拥有700+的全新方块，每种都不重样**
 
-![](./blocks.webp)
-![](./blocks-more.webp)
+![更多装饰](./blocks.webp)
+![新增的装饰方块](./blocks-more.webp)
 
 3.增加了新的附魔系统，让你的工具更加强大！
 
-![](./enchantments.webp)
+![更多附魔](./enchantments.webp)
 
 ## 完善文档
 
