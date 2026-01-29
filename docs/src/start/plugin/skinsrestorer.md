@@ -2,7 +2,7 @@
 
 本条目主要介绍了 Skinsrestorer 插件（即 `/skin` ）的相关信息及使用方式
 
-下文的指令都将以 \<required> 表示必选参数，而以 \(optional) 表示可选参数。
+下文的指令都将以 \<required> 表示必选参数，而以 \(optional\) 表示可选参数。
 
 ## 玩家指令
 
