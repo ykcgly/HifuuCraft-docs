@@ -9,7 +9,7 @@ WIP
 
 ### McMMO
 
-<sup>主条目：[McMMO](./mcmmo.md)</sup>
+<sup>主条目：[McMMO](./plugin/mcmmo.md)</sup>
 
 ## 展廊
 

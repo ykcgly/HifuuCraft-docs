@@ -33,7 +33,7 @@
 
 ### 1. /bindqq <你的qq号>
 
-绑定你的QQ账号，可以用于账号找回以及数据查询
+绑定你的QQ账号，可以用于账号找回以及数据查询  
 ==(一定要绑定啊)==
 
 ### 2. /bindqq clear
@@ -45,9 +45,7 @@
 
 ### 3. /skin set
 
-:::info
-更多 `/skin` 用法请见 [SkinsRestorer Docs](https://skinsrestorer.net/docs/configuration/commands-permissions)
-:::
+<sup>主条目：[SkinsRestorer](../start/plugin/skinsrestorer.md)</sup>
 
 你的正版名字 要是你之前的离线账号登录，换成正版账号登录后可能出现皮肤不刷新问题，可以使用后该指令刷新皮肤
 （在子服中使用可能导致断开连接并且回到大厅）
